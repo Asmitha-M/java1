@@ -2,7 +2,7 @@ import java.util.List;
 
 import java.util.ArrayList;
 
-   public class J1{
+   public class J3{
 
      public static void main(String[] args){
 
