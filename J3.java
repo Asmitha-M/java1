@@ -12,13 +12,13 @@ import java.util.ArrayList;
 
          int n2=4;
 
-         int sum1-n1+n2;
+         int sum1=n1+n2;
 
-         int diff1-n1-n2;
+         int diff1=n1-n2;
 
-         int mult1-n1*n2;
+         int mult1=n1*n2;
 
-         int div1-n1/n2;
+         int div1=n1/n2;
 
          System.out.println(sum1 +" "+ diff1 +" "+ mult1 +" "+ div1);
 
